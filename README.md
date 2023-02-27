@@ -17,6 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RussC22&theme=chartreuse-dark)](https://github.com/RussC22/github-readme-stats)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=RussC22&&theme=matrix)](https://github.com/RussC22/github-profile-trophy)
 
 
