@@ -7,7 +7,7 @@
 - 🔭 I have officially finished the FULLSTACK development bootcamp with UNC CHARLOTTE 🤙🏾 and I am seeking my first developer position
 - 😜 Fun facts: I am a #GirlDad, I once won $1000 💵 in Vegas, and I have worn an NFL Superbowl Ring!
 - My interest: I love watching and playing 🏀, I love 🎣, and I am a avid console gamer 🎮 (💻 gamers don't have a 🐄)
-- For any quesitons, concerns, or modification request contact me at: [<a href='https://https://github.com/RussC22/Object-Oriented-Programming-' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=plastic&logo=Github&logoColor=8D22FF&labelColor=151304&color=C707A4'/></a>](https://github.com/RussC22) or [Linkedin](https://www.linkedin.com/in/tavarus-cherry/)
+- For any quesitons, concerns, or modification request contact me at: [<a href='https://https://github.com/RussC22/Object-Oriented-Programming-' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=plastic&logo=Github&logoColor=8D22FF&labelColor=151304&color=C707A4'/></a>](https://github.com/RussC22)
 
 
 ### 🛠️ Languages/Tools:
